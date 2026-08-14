@@ -19,19 +19,22 @@
 ### Tech I work with
 
 **Languages:** Python · Go (learning) · JavaScript · Java · C++ · C · React
+
 **Infra:** Linux · Docker · Kubernetes · Git
+
 **Frontend:** React · CSS 
+
 **CI/CD:** GitHub Actions
 
 ---
 
-### 🌍 Open source
+### Open source
 
 I contribute to Kubernetes ecosystem projects when I can — mostly around backup/storage internals and CI reliability. Not chasing numbers, just trying to understand real codebases well enough to make a genuine dent, always breaking into new things getting messed up and untangling myself from those situations via learning , reading documentations and fixing through trial and error. Also open to contribute wherever i can make an impact and bring in a valuable change open for suggestions and a humble hustler hungry for learning 
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 <!-- Add your actual links here -->
 - GitHub: [@samay43](https://github.com/samay43)
