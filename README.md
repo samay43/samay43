@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samay AKA 6r4mbo</h1>
+<h1 align="center">Hi, I'm Samay AKA R4mbo</h1>
 <h3 align="center"> DevOps Engineer | Open Source Contributor</h3>
 
 <p align="center">
